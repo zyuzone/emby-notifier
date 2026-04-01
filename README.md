@@ -5,9 +5,9 @@
 
 ### ⚙️ 使用说明
 
-📄 详细使用说明参见：  👉 [User-Guide.md](https://github.com/xpisce/emby-notifier/blob/main/User%20Guide/User-Guide.md)
+📄 详细使用说明参见：  👉 [User-Guide.md](https://github.com/zyuzone/emby-notifier/blob/main/User%20Guide/User-Guide.md)
 
-📄 完整配置文件参见：  👉 [config/config.yaml](https://github.com/xpisce/emby-notifier/blob/main/config/config.yaml)
+📄 完整配置文件参见：  👉 [config/config.yaml](https://github.com/zyuzone/emby-notifier/blob/main/config/config.yaml)
 
 ---
 
@@ -47,10 +47,10 @@
 
 | 命令 | 描述 | 权限要求 | 详细使用说明 |
 |------------|-----------------------------------------|--------------|--------------|
-| `/search` | 搜索节目关键词，支持智能后备搜索，展示剧集更新状态与规格。 | 所有人 | 👉 [/search.md](https://github.com/xpisce/emby-notifier/blob/main/User%20Guide/userguide-search.md) |
-| `/status` | 查看当前播放会话，支持远程控制。 | 管理员 | 👉 [/status.md](https://github.com/xpisce/emby-notifier/blob/main/User%20Guide/userguide-status.md) |
-| `/settings`| 打开交互式菜单，配置通知内容、系统工具（如IP查询API）等。 | 管理员 | 👉 [/settings.md](https://github.com/xpisce/emby-notifier/blob/main/User%20Guide/userguide-settings.md) |
-| `/manage` | 管理媒体文件与 Emby 用户，支持扫描、刷新、更新、入库、删除等高级操作。 | 管理员 | 👉 [/manage.md](https://github.com/xpisce/emby-notifier/blob/main/User%20Guide/userguide-manage.md) |
+| `/search` | 搜索节目关键词，支持智能后备搜索，展示剧集更新状态与规格。 | 所有人 | 👉 [/search.md](https://github.com/zyuzone/emby-notifier/blob/main/User%20Guide/userguide-search.md) |
+| `/status` | 查看当前播放会话，支持远程控制。 | 管理员 | 👉 [/status.md](https://github.com/zyuzone/emby-notifier/blob/main/User%20Guide/userguide-status.md) |
+| `/settings`| 打开交互式菜单，配置通知内容、系统工具（如IP查询API）等。 | 管理员 | 👉 [/settings.md](https://github.com/zyuzone/emby-notifier/blob/main/User%20Guide/userguide-settings.md) |
+| `/manage` | 管理媒体文件与 Emby 用户，支持扫描、刷新、更新、入库、删除等高级操作。 | 管理员 | 👉 [/manage.md](https://github.com/zyuzone/emby-notifier/blob/main/User%20Guide/userguide-manage.md) |
 
 ---
 
@@ -89,8 +89,8 @@ MIT License
 
 ## 🔗 项目地址
 
-- 📦 GitHub: [https://github.com/xpisce/emby-notifier](https://github.com/xpisce/emby-notifier)
-- 🐳 Docker Hub: [https://hub.docker.com/r/xpisce/emby-notifier](https://hub.docker.com/r/xpisce/emby-notifier)
+- 📦 GitHub: [https://github.com/zyuzone/emby-notifier](https://github.com/zyuzone/emby-notifier)
+- 🐳 Docker Hub: [https://hub.docker.com/r/zyuzone/emby-notifier](https://hub.docker.com/r/zyuzone/emby-notifier)
 
 ---
 
